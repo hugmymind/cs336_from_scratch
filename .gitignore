@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+main.py
+pyproject.toml
+
 
 # Virtual environments
 .venv
+.gitignore
